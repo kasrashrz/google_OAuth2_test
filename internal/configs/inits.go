@@ -14,4 +14,3 @@ func InitializeViper() {
 		fmt.Printf("error reading config file, %s", err)
 	}
 }
-

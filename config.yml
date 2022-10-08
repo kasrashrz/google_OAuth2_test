@@ -1,5 +1,6 @@
 port:
-  logger-output-path:
+  port: 9090
+  logger-output-path: "./"
 oatuhStateString:
 
 google:
